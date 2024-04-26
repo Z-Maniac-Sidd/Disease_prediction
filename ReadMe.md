@@ -1,3 +1,6 @@
+#DISEASE PREDICTION USING ML
+
+
 Approach:
 
 Gathering the Data: Data preparation is the primary step for any machine learning problem. We will be using a dataset from Kaggle for this problem. This dataset consists of two CSV files one for training and one for testing. There is a total of 133 columns in the dataset out of which 132 columns represent the symptoms and the last column is the prognosis.
